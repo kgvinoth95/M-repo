@@ -5,7 +5,9 @@
   "scripts": {
     "start": "node index.js",
     "test": "echo \"No tests yet\""
+    "build": "echo \"Build step here\""
   }
 }
+
 
 
